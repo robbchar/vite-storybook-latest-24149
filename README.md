@@ -2,10 +2,10 @@
 This is the reproduction for https://github.com/storybookjs/storybook/issues/24149.
 
 ### Expected
-When you click the 'reset controls' button after editing items in a component after editing the items in JSON mode the items reset to what they initially were.
+When you click the 'reset controls' button after editing the items in JSON mode the items reset to what they initially were.
 
 ### Actual
-When you click the 'reset controls' button after editing items in a component after editing the items in JSON mode the items *DO NOT* reset to what they initially were.
+When you click the 'reset controls' button after editing the items in JSON mode the items *DO NOT* reset to what they initially were.
 
 ### Reproduction steps
 1. Clone the code locally `git clone https://github.com/robbchar/vite-storybook-latest-24149`.
