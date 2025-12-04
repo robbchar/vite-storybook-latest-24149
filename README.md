@@ -16,7 +16,7 @@ When you click the 'reset controls' button after editing the items in JSON mode 
 1. Find the 'Items' property in the 'Controls' tab at the bottom and click 'Edit JSON'.
 1. Change the text of 'Item 1' to 'Item 1asd' and click out of the box, noticing that the rendered list now has 'Item 1asd' as the first itemn.
 1. Click the icon for 'Reset Controls' in the upper right of the 'Controls' tab.
-1. Notice that the first item of the rendered list reverts back to 'Item 1asd' but the first item in the list in the 'Controls' tab stays 'Item 1asd'.
+1. Notice that the first item of the rendered list reverts back to 'Item 1' but the first item in the list in the 'Controls' tab stays 'Item 1asd'.
 
 ### Versions
 - Node v22 
